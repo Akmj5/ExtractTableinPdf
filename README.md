@@ -20,3 +20,28 @@ This is a **Streamlit-based tool** for detecting and extracting tables from **sy
 ```bash
 git clone https://github.com/yourusername/HackathonProject.git
 cd ExtractTableinPdf
+
+Create a Virtual Environment
+
+python -m venv venv
+
+Activate the virtual environment:
+
+    Windows:
+
+venv\Scripts\activate
+
+Mac/Linux:
+
+    source venv/bin/activate
+
+3️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+📌 Running the Application
+
+streamlit run app.py
+
+This will launch the Streamlit web interface in your browser.
+
