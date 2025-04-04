@@ -19,4 +19,4 @@ This is a **Streamlit-based tool** for detecting and extracting tables from **sy
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/HackathonProject.git
-cd HackathonProject
+cd ExtractTableinPdf
